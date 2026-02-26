@@ -25,6 +25,7 @@ Le pattern est répétitif et systématique pour chaque domaine :
 ![http request response](./images/http%20request%20response.png)
 
 L'analyse de ces requêtes ne révèle rien d'anormal : aucune modification suspecte, uniquement des sites légitimes, ce qui corrobore l'absence de contenu malveillant mentionnée dans le sujet.
+
 ---
 
 ### DNS
