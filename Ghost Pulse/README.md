@@ -24,7 +24,6 @@ Le pattern est répétitif et systématique pour chaque domaine :
 
 ![http request response](./images/http%20request%20response.png)
 
-Ce faux flag confirme que le vrai contenu caché se trouve ailleurs. Il faut creuser plus loin.
 
 ---
 
